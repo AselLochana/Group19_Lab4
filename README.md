@@ -283,17 +283,6 @@ When more water in the soil then prob’s conductivity will increase and resista
   
 <img align = "middle" src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png" width = "300" height = "300" />
 
-
-## Implementation
-
-<b> We built the circuit using 2 breadboards and placing the sensors and the outputs on the breadboards that we had created as shown below </b> 
-
-<img src = "https://user-images.githubusercontent.com/111168422/185463637-f624bbc6-9b0f-45f6-ba44-268334556899.jpg" >
-
-<b> The sensors were dipped in water to obtain the required output as the sensors would behave as the switches of the system </b>
-
-<img src = "https://user-images.githubusercontent.com/111168422/185464662-efdf0261-e0cb-4a5f-b341-e5280c30cecc.jpg" >
-
 ### Issues with the sensors
 
 <li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
