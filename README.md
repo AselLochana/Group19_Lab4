@@ -28,6 +28,7 @@ DC motor is an electrical equipment which converts electrical energy into mechan
 
 ### Working Process
 The water tank has 3 levels of water storage which can be detectable. The tank system consists of 1 input motor (located relatively lower) to pump in water when it is under operation and another motor (located at the top) which expels water from the tank. The first 2 levels can be filled with the input motor uninterruptedly. Once the input motor starts pumping water above the level of sensor in the 3rd level, the input of that sensor will trigger the output motor to expel water for a duration of 500ms and stop and halt the input motor, simultaneously. 
+<img src = "https://user-images.githubusercontent.com/111522334/185535647-f1e5bb28-e8c4-4a5a-9f09-cf2eff037f03.png" width = "800" height ="400"/>
 
 <p>
  
