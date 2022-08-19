@@ -283,7 +283,7 @@ https://user-images.githubusercontent.com/111522334/185673345-ce0db8b1-97f9-4cb1
 When more water in the soil then prob’s conductivity will increase and resistance will decrease. So, a Low amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is less than the threshold voltage, so the soil sensor output goes LOW (0).When less water in the soil then prob’s have low conductivity and high resistance. So, a High amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is greater than the threshold voltage, so the sensor output goes High (1).
 
   
-<img align = "https://user-images.githubusercontent.com/111522334/185676258-70c2077b-7a92-4bf2-a015-0a6eb1633a44.png" width = "300" height = "300" />
+<img src = "https://user-images.githubusercontent.com/111522334/185676258-70c2077b-7a92-4bf2-a015-0a6eb1633a44.png" width = "300" height = "300" />
 
 ### Issues with the sensors
 
