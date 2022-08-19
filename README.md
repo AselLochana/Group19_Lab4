@@ -268,6 +268,7 @@ Even though the PCB acts as the main system of operation, the external periphera
  </p>
 
 ## RESULTS AND OBSERVATIONS
+When the sensors one alone is activated the motor 1 switches on. Furthermore, when sensor 1 and 2 are both activated the motor 1 continued to be switched on. However, when sensor 1, 2, and 3 were activated together the motor 1 switched off while motor 2 switched on for 500 milli seconds.
 https://user-images.githubusercontent.com/111522334/185673345-ce0db8b1-97f9-4cb1-b29b-215a215a8d7d.mp4
 
  
