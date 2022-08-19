@@ -224,18 +224,8 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
  </p>
 
 ### Circuit Manufacturing Procedure
-The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB is made of robust, dust-resistant substrate material. Each side of the copper is already bonded. To disclose the pattern from the films, the copper is whittled away during the process. The layers were introduced with alignment punches and once they were all clean and prepared to guarantee that they line up. The inner layers were aligned with the outer layers by the registration holes. The layers were inserted into an apparatus known as an optical punch, allowing precise correspondence for the precise punching of registration holes.
+The foundation of the PCB which is the laminate board comprises of epoxy resin and glass fiber. A suitable body for holding the copper that supports the PCB is laminate. The foundation of the PCB is made of robust, dust-resistant substrate material. Each side of the copper was already bonded. To disclose the pattern from the films, the copper is whittled away during the process. The inner layers were aligned with the outer layers by the registration holes. The layers were inserted into an apparatus known as an optical punch, allowing precise correspondence for the precise punching of registration holes.
 
- <li> Design the PCB in proteus software
- <li> Print out the design onto the shiny side of the transfer paper
- <li> Sand the copper plate so there is a rough surface for the design to stick to when transfered
- <li> Wash the copper with some water and rubbing alcohol and let it dry
- <li> Cut out the designs and place them face down on the copper
- <li> Run the copper plate with the design face down through a laminator 5-7 times until the plate is hot
- <li> Place the PCB into the etching solution and agitate for 25-30 minutes or until all the copper has dissolved around the design
- <li> Once all the copper is gone rinse it in the water bath, let it dry and use rubbing alcohol to remove off the ink transfered onto the PCB
- <li> And now you have an etched PCB board after that we drill the holes
-  
 <p>
  
  </p>
