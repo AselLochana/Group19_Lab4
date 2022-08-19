@@ -229,7 +229,7 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
  </p>
 
 
-### PCB layout 
+#### PCB layout 
 
 <img src = "https://user-images.githubusercontent.com/111522334/185552363-5a16de92-25a2-4aaa-bf95-781fc5cd8978.png" width = "900" height = "500"/>
 
@@ -237,7 +237,7 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
  
  </p>
 
-### 3D PCB layout
+#### 3D PCB layout
 
 The three dimensional view of the PCB with the components 
 
