@@ -97,7 +97,16 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  </p>
  
 <li>LED 
+ <p>
+  
+ </p>
+ 
+<img src = "https://user-images.githubusercontent.com/111522334/185541488-1caeb587-0bdc-48ab-ba5e-f2cb3866692c.png" width = "75" height = "200" align = middle/>
 
+ <p>   
+  
+ </p>
+ 
 <li>Soil moisture sensors
  
  <p>
