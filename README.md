@@ -265,8 +265,6 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
 
 #### Final Build
 
-The final build after soldering the circuit 
-
 <img src = "https://user-images.githubusercontent.com/111168422/184480522-3171153e-bba6-4bdd-b64a-f47f7570b89e.png" width = "900" height = "500"/>
 
 Even though the PCB acts as the main system of operation, the external peripherals such as the LEDs, DC motors, and sensors were placed externally on a breadboard and connected with jumper cables to build up the working system. 
@@ -276,18 +274,6 @@ Even though the PCB acts as the main system of operation, the external periphera
  
  </p>
  
- 
-
-      
-### Code discussion
-
-The code we use in this programme is created using the MPLAB X IDE V6.00. This was executed without the use of interrupt registers as analogue sensors are used the transtion edges would be spontaneous and instantaneous to be tracked by the intruept service routine therefore we used a regular bit test for each input pin nested within the while loop and test for each loop the corresponding status required and therby calling the subroutine.If loops are used to check the condtions of the input and give the relavant output. 
-
-<p>
- 
- 
- </p>
-
 
 ## Sensors used
     
