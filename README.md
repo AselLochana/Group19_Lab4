@@ -267,7 +267,7 @@ Even though the PCB acts as the main system of operation, the external periphera
  
  </p>
 
-## Results
+## RESULTS AND OBSERVATIONS
 https://user-images.githubusercontent.com/111522334/185673345-ce0db8b1-97f9-4cb1-b29b-215a215a8d7d.mp4
 
  
