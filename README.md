@@ -101,7 +101,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
   
  </p>
  
-<img src = "https://user-images.githubusercontent.com/111522334/185541488-1caeb587-0bdc-48ab-ba5e-f2cb3866692c.png" width = "150" height = "200" align = middle/>
+<img src = "https://user-images.githubusercontent.com/111522334/185541488-1caeb587-0bdc-48ab-ba5e-f2cb3866692c.png" width = "150" height = "170 align = middle/>
 
  <p>   
   
