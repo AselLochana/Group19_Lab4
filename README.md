@@ -58,8 +58,18 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
   
  </p>
  
- <li>Jumper wires
+<li>Jumper wires
+<p>   
+ </p>
 
+ 
+<img src = "" width = "300" height = "100"/>
+
+ <p>  
+  
+  
+ </p>
+ 
 <li>Breadboard
  
  <p>
