@@ -267,7 +267,7 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
 
 ### Final Build
 
-<img src = "https://user-images.githubusercontent.com/111522334/185647379-c049fcc3-38c1-4686-b8b6-bf6e88d136a2.png" width = "900" height = "500"/>
+<img src = "https://user-images.githubusercontent.com/111522334/185660446-04e12651-464d-4ab2-9d3d-12c5eb47b705.jpeg" width = "900" height = "500"/>
 <img src = "https://user-images.githubusercontent.com/111522334/185647379-c049fcc3-38c1-4686-b8b6-bf6e88d136a2.png" width = "900" height = "500"/>
 
 Even though the PCB acts as the main system of operation, the external peripherals such as the LEDs, DC motors, and sensors were placed externally on a breadboard and connected with jumper cables to build up the working system. 
