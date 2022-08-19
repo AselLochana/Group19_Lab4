@@ -207,7 +207,7 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
  
 #### Schematic Design 
 
-<img src = "https://user-images.githubusercontent.com/111522334/185549765-a04030b4-2c66-48be-b2ed-9b8ae6b25252.png" width = "900" height = "500"/>
+<img src = "https://user-images.githubusercontent.com/111522334/185549955-b46265aa-3ba2-4233-a8ad-ecdfae03fb34.png" width = "900" height = "500"/>
 
 <p>
  
