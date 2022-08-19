@@ -58,6 +58,20 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
   
  </p>
  
+ <li>PicKit 3
+ 
+ <p>
+  
+  
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111522334/185543369-e2cfa1ca-a680-4d2e-b7af-0edacb3b0c7c.png" >
+
+  <p>
+  
+  
+ </p>
+ 
 <li>Jumper wires
 <p>   
  </p>
@@ -152,19 +166,11 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  
  <img src = "https://user-images.githubusercontent.com/111522334/185542721-dcadaacf-fdcd-4076-acb3-a37917446292.png" >
 
+ 
+ </ul>
   <p>
   
   
- </p>
-
-<li>Pins for external connections
- 
-
-
- 
-  
-</ul>
-<p>
  </p>
 
 
