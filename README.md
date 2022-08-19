@@ -35,7 +35,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  </p>
 
 ### Truth table
-<img src = "![image](https://user-images.githubusercontent.com/111522334/185535256-a4c6d1e0-7220-4701-a87d-ca6e930c2975.png)" width = "800" height ="400"/>
+<img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "800" height ="400"/>
 
 <p>
  
