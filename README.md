@@ -27,7 +27,7 @@ DC motor is an electrical equipment which converts electrical energy into mechan
 ## METHODOLOGY
 
 ### Working Process
-A water level controlling system was developed for a water tank mainly using the PIC16f877A microcontroller. A 'C language code' was developed using the MPLabs software, while a schematic layout of the required circuit was designed on the Proteus software and was converted to a PCB layout to obtain the necessary circuit that was needed. DC motors, IR obstacle sensors, etc were also mainly used. 
+The water tank has 3 levels of water storage which can be detectable. The tank system consists of 1 input motor (located relatively lower) to pump in water when it is under operation and another motor (located at the top) which expels water from the tank. The first 2 levels can be filled with the input motor uninterruptedly. Once the input motor starts pumping water above the level of sensor in the 3rd level, the input of that sensor will trigger the output motor to expel water for a duration of 500ms and stop and halt the input motor, simultaneously. 
 
 <p>
  
@@ -35,7 +35,7 @@ A water level controlling system was developed for a water tank mainly using the
  </p>
 
 ### Truth table
-<img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "800" height ="400"/>
+<img src = "![image](https://user-images.githubusercontent.com/111522334/185535256-a4c6d1e0-7220-4701-a87d-ca6e930c2975.png)" width = "800" height ="400"/>
 
 <p>
  
