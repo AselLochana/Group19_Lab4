@@ -23,6 +23,16 @@ DC motor is an electrical equipment which converts electrical energy into mechan
  
  
  </p>
+ 
+## METHODOLOGY
+
+### Working Process
+A water level controlling system was developed for a water tank mainly using the PIC16f877A microcontroller. A 'C language code' was developed using the MPLabs software, while a schematic layout of the required circuit was designed on the Proteus software and was converted to a PCB layout to obtain the necessary circuit that was needed. DC motors, IR obstacle sensors, etc were also mainly used. 
+
+<p>
+ 
+ 
+ </p>
 
 ### Truth table
 <img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "800" height ="400"/>
