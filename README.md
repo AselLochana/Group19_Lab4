@@ -190,7 +190,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  
  </p>
 
-### Truth table
+### Truth Table
 <img src = "https://user-images.githubusercontent.com/111522334/185536298-f010ee95-7c28-4b6c-9562-18c9bd990ef2.png" width = "800" height ="200"/>
 
 <p>
@@ -198,7 +198,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  
  </p>
 
- 
+### Simulation and Implementation
 ## PCB Design
 
 <b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
