@@ -267,7 +267,8 @@ Even though the PCB acts as the main system of operation, the external periphera
  
  </p>
 
-## Final Build
+## Results
+https://user-images.githubusercontent.com/111522334/185669107-450c9304-d9d1-406b-aad2-021493ac073b.MOV
  
 ## DISCUSSION
 ### Sensors used
