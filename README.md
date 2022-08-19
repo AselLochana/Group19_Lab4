@@ -280,32 +280,6 @@ When more water in the soil then prob’s conductivity will increase and resista
 <img align = "middle" src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png" width = "300" height = "300" />
 
 
-## Uploading the code
-
-we used the pickit 3 development kit to uplaod the c source code into the microcontroller and this was done via the mplab ipe software.The following connections were performed on the board and the program was uploaded
-   
-   <img src = "https://user-images.githubusercontent.com/111168422/184998581-09e34ba7-7c57-47b0-9495-1a770974c9b0.png">
-   <p>
- 
- </p>
- 
- <p>
- 
- 
- </p>
- 
-   
-   <img src = "https://user-images.githubusercontent.com/111168422/184998718-62798101-bcc0-4a78-bf4b-39365d39e141.png" >
-
-<p>
- 
- </p>
- 
- Uploading the programe after production of the programme
- 
-
-<img src = "https://user-images.githubusercontent.com/111168422/184999393-72cf3133-bb67-4380-8066-fede9a669d6b.jpeg" height = "300" width = "500" />
-
 ## Implementation
 
 <b> We built the circuit using 2 breadboards and placing the sensors and the outputs on the breadboards that we had created as shown below </b> 
