@@ -227,25 +227,11 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
 <p>
  
  </p>
- 
-## PCB Design
-
-<b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
-<p>
- 
-
- </p>
-
-
 
 
 ### PCB layout 
 
-<b> The PCB layout is genarated using the inbuilt PCB designing facilty of the Proteus Software and we use a top Copper Layout </b>
-
 <img src = "https://user-images.githubusercontent.com/111522334/185552363-5a16de92-25a2-4aaa-bf95-781fc5cd8978.png" width = "900" height = "500"/>
-
-Manual tracing was done using the T50 line since that gives the appropiate width to be practically designed. Marker ink was used to etch the PCB on to the circuit and FeCl3 was used to remove the Copper that had not been etched by the marker ink therefore giving us the required layout of the circuit.   
 
 <p>
  
@@ -267,6 +253,15 @@ The three dimensional view of the PCB with the components
  
  
  </p>
+
+## PCB Design
+
+<b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
+<p>
+ 
+
+ </p>
+
 
 
 ### Desgined PCB 
