@@ -206,7 +206,7 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
  </p>
  
 ### Code Development
-<img src = "https://user-images.githubusercontent.com/111522334/185546425-b8aadc19-f68e-490a-b58e-92413922640a.png" width = "800" height ="500"/>
+<img src = "https://user-images.githubusercontent.com/111522334/185546425-b8aadc19-f68e-490a-b58e-92413922640a.png" width = "1000" height ="600"/>
 <p>
  
  
