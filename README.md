@@ -274,36 +274,11 @@ https://user-images.githubusercontent.com/111522334/185673345-ce0db8b1-97f9-4cb1
 
  
 ## DISCUSSION
-### Sensors used
-    
- We use a soil moisture sensor to act as the switches of the circuit. This sensor can measure the volumetric content of water inside the soil. This sensor is consists of mainly two parts, one is sensing probs and another one is the sensor module.The probes allow current to flow through the soil, and they then calculate the resistance value based on the soil's moisture content. The Sensor Module receives data from the sensor probes, processes it, and outputs the result as either a digital or analog signal.The Soil Moisture Sensor can provide both types of output Digital output (DO) and Analog output(AO).
+In this laboratory experiment, a PCB based circuit was created. However, the DC motors and the IR obstacle sensors were connected to breadboards and then were exterenally connected to the PCB. The main resons for choosing IR obstacle sensors were the ease of use and the ability to obtain digital inputs rather than analog inputs. Furthermore, these sensors sends a logic low as an input once activated. Therefore, the code which was developed for switches which was programmed to give a logic high when activated had to be changed accordingly. When taking the two DC motors into consideration, the motors could not be ditectly connected to the output ports and a 2 relay module was used to connect the motors. However,in order to check the accuracy of the edited code and the sensors 2 LED bulbs were used instead of motors.Once the code and the acuuracy of the components were determined the experiment was done using the DC motors.
 
-### Process of the soil moisture sensor
-
-When more water in the soil then prob’s conductivity will increase and resistance will decrease. So, a Low amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is less than the threshold voltage, so the soil sensor output goes LOW (0).When less water in the soil then prob’s have low conductivity and high resistance. So, a High amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is greater than the threshold voltage, so the sensor output goes High (1).
-
-  
+#### Components which were externally connected
 <img src = "https://user-images.githubusercontent.com/111522334/185676258-70c2077b-7a92-4bf2-a015-0a6eb1633a44.png" width = "500" height = "600" />
 
-### Issues with the sensors
 
-<li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
-<li> We should allocate some time for the sensors to dry probably using a piece of cloth which is non static
-<li> The sensors take some time to indicate the changes therefore we have to quickly clean them after use
-<li> The reason the LED is blinking out of water is due to 
- 
- 
-</li>
-
-### Output Explanation
-
-When we dip the sensors one and two into the water cup it performs the function of switches and the system should funtction according to the truth table we had created 
-     <li> When we dip the third sensor the RED Led at the top should light up
-     <li> When we dip the second sensor the RED LED should be still lit up
-     <li> When we remove the both the above dipped sensors the RED led at the bottom should light up for 500ms 
-     <li> When we dip all the three sensors the LEDS should turn off as all switches are off
-
-We account for the delay observed in obtaining the outputs and we should let the nodes dry before we restart the process      
-      
 ## CONCLUSION 
 The lab activity was completed with the aid of the Proteus 8 professional software and physical components. The schematic layout was constructed on the Proteus software and the relevant PCB layout was derived. DC motors, sensors, PIC16F877A microcontroller along with other components were properly used to build the circuit. The properties and special features of these components were understood. The required 'C language code' was constructed on MPLabs. More knowledge was gained about microcontroller programming and associated concepts such ‘Interrupts’, ‘delays’, and their application scope because of performing this experiment. During this task certain errors were found and were rectified using necessary measures.
