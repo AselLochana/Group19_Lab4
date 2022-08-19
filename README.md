@@ -205,14 +205,22 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
  
  </p>
  
-### Code Development
+#### Schematic Design 
+
+<img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "900" height = "500"/>
+
+<p>
+ 
+ 
+ </p>
+#### Code Development
 <img src = "https://user-images.githubusercontent.com/111522334/185546425-b8aadc19-f68e-490a-b58e-92413922640a.png" width = "1200" height ="600"/>
 <img src = "https://user-images.githubusercontent.com/111522334/185547025-062fd2f2-79ac-411d-9f59-e6d1f18eee89.png" width = "1000" height ="600"/>
 <p>
  
  </p>
 
-### Circuit manufacturing procedure
+### Circuit Manufacturing Procedure
 The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB is made of robust, dust-resistant substrate material. Each side of the copper is already bonded. To disclose the pattern from the films, the copper is whittled away during the process. The layers were introduced with alignment punches and once they were all clean and prepared to guarantee that they line up. The inner layers were aligned with the outer layers by the registration holes. The layers were inserted into an apparatus known as an optical punch, allowing precise correspondence for the precise punching of registration holes.
 
 <p>
@@ -228,18 +236,7 @@ The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB i
  </p>
 
 
-### Schematic Design 
 
-<img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "900" height = "500"/>
-
-The above Schematic diagram is derived according to the code being used by the microcontroller, since we do not use any interrupt condtions in the code but instead only check for the respective logic levels of the three switches connected we can create the schematic diagram in the above manner without specifying for the interrupt ports.PORT C  RC 0,RC 3 and RC 4 are configured to be the respective input ports and PORT B  RB 1, RB 3 are configured to be the respective output ports. Port A was not used since if analog configuration  required to be connected they would be interfaced through this port.But in the circuit we have interfaced it with sensors in order to genarate a real world application of the PCB we had designed. 
-
-<img src = "https://user-images.githubusercontent.com/111168422/184494268-cb3464d0-9d45-421b-9aa7-a7d246c691c6.png" width = "900" height = "500"/>
-
-<p>
- 
- 
- </p>
 
 ### PCB layout 
 
