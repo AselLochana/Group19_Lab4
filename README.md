@@ -106,6 +106,28 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  <p>   
   
  </p>
+
+<li>Crystal Oscillator 20Mhz
+
+ <p>
+  
+  
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111168422/184554894-85998104-95a1-4cae-ba83-5375edf1b312.png" >
+
+ <p>
+ </p>
+ 
+<li>22pF Capacitors
+ 
+ <p>
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111168422/184554982-d766fb28-d2b9-4316-828e-3b4dad6428e1.png" width = "150" height = "150" >
+
+ <p>
+ </p>
  
 <li>Soil moisture sensors
  
@@ -121,29 +143,9 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
 <li>5V DC Power Supply
 
 <li>Pins for external connections
-
-<li>Crystal Oscillator 20Mhz
-
- <p>
-  
-  
- </p>
- 
- <img src = "https://user-images.githubusercontent.com/111168422/184554894-85998104-95a1-4cae-ba83-5375edf1b312.png" >
-
- <p>
- </p>
  
 
-<li>22pF Capacitors
- 
- <p>
- </p>
- 
- <img src = "https://user-images.githubusercontent.com/111168422/184554982-d766fb28-d2b9-4316-828e-3b4dad6428e1.png" width = "150" height = "150" >
 
- <p>
- </p>
  
   
 </ul>
