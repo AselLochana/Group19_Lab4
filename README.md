@@ -274,8 +274,8 @@ https://user-images.githubusercontent.com/111522334/185673345-ce0db8b1-97f9-4cb1
 
  
 ## DISCUSSION
-In this laboratory experiment, a PCB based circuit was created. However, the DC motors and the IR obstacle sensors were connected to breadboards and then were exterenally connected to the PCB. The main resons for choosing IR obstacle sensors were the ease of use and the ability to obtain digital inputs rather than analog inputs. Furthermore, these sensors sends a logic low as an input once activated. Therefore, the code which was developed for switches which was programmed to give a logic high when activated had to be changed accordingly. When taking the two DC motors into consideration, the motors could not be ditectly connected to the output ports and a 2 relay module was used to connect the motors. However,in order to check the accuracy of the edited code and the sensors 2 LED bulbs were used instead of motors.Once the code and the acuuracy of the components were determined the experiment was done using the DC motors.
-
+In this laboratory experiment, a PCB based circuit was created. However, the DC motors and the IR obstacle sensors were connected to breadboards and then were externally connected to the PCB. The main reasons for choosing IR obstacle sensors were the ease of use and the ability to obtain digital inputs rather than analog inputs. Furthermore, these sensors sends a logic low as an input once activated. Therefore, the code which was developed for switches which was programmed to give a logic high when activated had to be changed accordingly. When taking the two DC motors into consideration, the motors could not be directly connected to the output ports and a 2-relay module was used to connect the motors. However, in order to check the accuracy of the edited code and the sensors 2 LED bulbs were used instead of motors. Once the code and the accuracy of the components were determined the experiment was done using the DC motors.
+ 
 #### Components which were externally connected
 <img src = "https://user-images.githubusercontent.com/111522334/185676258-70c2077b-7a92-4bf2-a015-0a6eb1633a44.png" width = "500" height = "600" />
 
