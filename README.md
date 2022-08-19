@@ -129,14 +129,14 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  <p>
  </p>
  
-<li>Soil moisture sensors
+<li>IR (Infrared) Obstacle Detection Sensor
  
  <p>
   
   
  </p>
  
- <img src = "https://user-images.githubusercontent.com/111168422/184555131-b6f20775-30ba-45d9-8c90-b80aa82f17a5.png" >
+ <img src = "https://user-images.githubusercontent.com/111522334/185542171-d9db9a89-e609-4872-b267-e3fdd9aeb904.png" >
 
  
 
