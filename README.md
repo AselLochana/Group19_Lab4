@@ -315,17 +315,4 @@ When we dip the sensors one and two into the water cup it performs the function 
 We account for the delay observed in obtaining the outputs and we should let the nodes dry before we restart the process      
       
 ## CONCLUSION 
-The lab activity was completed with the aid of the Proteus 8 professional software and physical components. The schematic layout was constructed on the Proteus software and the relevant PCB layout was derived. DC motors, sensors, PIC16F877A microcontroller along with other components were properly used to build the circuit. The properties and special features of these components were understood. The required 'C language code' was constructed on MPLabs. More knowledge was gained about microcontroller programming and associated concepts such ‘Interrupts’, ‘delays’, and their application scope because of performing this experiment. During this task certain errors were found and were rectified using necessary measures. 
-
-
- 
-      
-    
-
-https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace-bda8-5df5d9dc6ff9.mp4
-
-
-
-
-
-
+The lab activity was completed with the aid of the Proteus 8 professional software and physical components. The schematic layout was constructed on the Proteus software and the relevant PCB layout was derived. DC motors, sensors, PIC16F877A microcontroller along with other components were properly used to build the circuit. The properties and special features of these components were understood. The required 'C language code' was constructed on MPLabs. More knowledge was gained about microcontroller programming and associated concepts such ‘Interrupts’, ‘delays’, and their application scope because of performing this experiment. During this task certain errors were found and were rectified using necessary measures.
