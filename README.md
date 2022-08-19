@@ -165,15 +165,39 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  </p>
  
  <img src = "https://user-images.githubusercontent.com/111522334/185542721-dcadaacf-fdcd-4076-acb3-a37917446292.png" >
-
  
- </ul>
   <p>
   
   
  </p>
 
 
+<li>10k ohm resistor
+
+ <p>
+  
+  
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111522334/185544255-b4b4dbb6-69de-4f83-bbdd-c2db028962eb.png" >
+
+ <p>
+ </p>
+
+ 
+<li>330 ohm resistor
+
+ <p>
+  
+  
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111522334/185544333-ff7dec27-b608-4188-a223-98084a2d8cff.png" >
+
+ </ul>
+ <p>
+ </p>
+ 
 ## PCB Design
 
 <b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
