@@ -211,6 +211,14 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
 <p>
  
  </p>
+
+### Circuit manufacturing procedure
+The PCB consists of epoxy resin and glass fiber, and the foundation of the PCB is made of robust, dust-resistant substrate material. Each side of the copper is already bonded. To disclose the pattern from the films, the copper is whittled away during the process. The layers were introduced with alignment punches and once they were all clean and prepared to guarantee that they line up. The inner layers were aligned with the outer layers by the registration holes. The layers were inserted into an apparatus known as an optical punch, allowing precise correspondence for the precise punching of registration holes.
+
+<p>
+ 
+ </p>
+ 
 ## PCB Design
 
 <b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
