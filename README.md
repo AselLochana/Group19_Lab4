@@ -49,14 +49,9 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
 <li>PIC16F877A microcontroller
  <p>   
  </p>
+
  
-The PIC microcontroller PIC16f877a is one of the most well-known in the industry. This microcontroller is quite easy to use, and coding or programming it is also very simple. Because it employs FLASH memory technology, one of its key advantages is that it can be write-erased as many times as possible. It has a total of 40 pins, 33 of which are for input and output.The PIC16f877a is used in a wide range of devices. It's found in remote sensors, security and safety equipment, home automation, and a variety of industrial instruments. It also includes an EEPROM, which allows it to permanently store information such as transmitter codes, receiver frequencies, and other associated data. This controller is inexpensive and simple to operate.
- 
- <p>
-  
- </p>
- 
-<img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
+<img src = "https://user-images.githubusercontent.com/111522334/185538050-578aa42d-5d42-4172-bd8c-47c57215d083.jpeg" width = "300" height = "200"/>
 
  <p>  
   
