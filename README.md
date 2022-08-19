@@ -107,7 +107,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
   
  </p>
 
-<li>Crystal Oscillator 20Mhz
+<li>Crystal oscillator 20Mhz
 
  <p>
   
@@ -129,7 +129,7 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  <p>
  </p>
  
-<li>IR (Infrared) Obstacle Detection Sensor
+<li>IR (Infrared) obstacle detection sensors
  
  <p>
   
@@ -138,9 +138,24 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  
  <img src = "https://user-images.githubusercontent.com/111522334/185542171-d9db9a89-e609-4872-b267-e3fdd9aeb904.png" >
 
- 
+  <p>
+  
+  
+ </p>
 
-<li>5V DC Power Supply
+<li>5V DC motors
+ 
+  <p>
+  
+  
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111522334/185542721-dcadaacf-fdcd-4076-acb3-a37917446292.png" >
+
+  <p>
+  
+  
+ </p>
 
 <li>Pins for external connections
  
