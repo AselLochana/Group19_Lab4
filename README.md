@@ -215,7 +215,9 @@ The design for the PCB were developed with the aid of Proteus 8 professional, wh
  </p>
  
 #### Code Development
+##### Configuration bits and Interrupt Service Routine
 <img src = "https://user-images.githubusercontent.com/111522334/185546425-b8aadc19-f68e-490a-b58e-92413922640a.png" width = "1200" height ="600"/>
+##### Main Program
 <img src = "https://user-images.githubusercontent.com/111522334/185547025-062fd2f2-79ac-411d-9f59-e6d1f18eee89.png" width = "1000" height ="600"/>
 <p>
  
