@@ -199,6 +199,18 @@ The water tank has 3 levels of water storage which can be detectable. The tank s
  </p>
 
 ### Simulation and Implementation
+The design for the PCB were developed with the aid of Proteus 8 professional, which is a software that also allows in-system simulationS thus, making it an ideal computer-based tool.
+<p>
+ 
+ 
+ </p>
+ 
+### Code Development
+<img src = "https://user-images.githubusercontent.com/111522334/185536298-f010ee95-7c28-4b6c-9562-18c9bd990ef2.png" width = "800" height ="200"/>
+<p>
+ 
+ 
+ </p>
 ## PCB Design
 
 <b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
